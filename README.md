@@ -1,10 +1,10 @@
 ## Customer Behavior Data Analyst Portfolio Project
 Data Analytics project showcasing customer behavior analysis using Python , Sql, and Power Bi
-Overview
+## Overview
 
 This project demonstrates an end-to-end Data Analytics workflow using Python, SQL, and Power BI. The project includes data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, dashboard creation, and report generation. The main goal is to extract meaningful insights from raw data and present them in a clear and interactive format.
 
-Dataset
+## Dataset
 
 The dataset used in this project contains structured data related to business/customer/sales operations (replace with your actual dataset topic).
 
@@ -12,7 +12,7 @@ Dataset Features
 Multiple columns with numerical and categorical values
 Real-world business data for analysis
 Missing values and duplicates handled during preprocessing
-Tools & Technologies
+## Tools & Technologies
 
 The following tools and technologies were used:
 
@@ -21,14 +21,14 @@ The following tools and technologies were used:
 -NumPy
 -Matplotlib
 -Seaborn
-SQL
+## SQL
 PostgreSQL / MySQL / SQL Server
 Visualization
 Power BI
 Presentation & Reporting
 Microsoft PowerPoint
 Canva
-Project Steps
+## Project Steps
 1. Data Loading
 Imported dataset using Python
 Read CSV/Excel files using Pandas
@@ -57,14 +57,14 @@ Prepared a detailed analytics report
 Created a professional PPT presentation using Canva
 Dashboard
 
-The Power BI dashboard includes:
+## The Power BI dashboard includes:
 
 KPI Cards
 Sales/Performance Trends
 Category-wise Analysis
 Interactive Filters
 Charts and Graphs
-Results & Insights
+## Results & Insights
 
 Key outcomes from the analysis:
 
