@@ -16,11 +16,11 @@ Tools & Technologies
 
 The following tools and technologies were used:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
 SQL
 PostgreSQL / MySQL / SQL Server
 Visualization
